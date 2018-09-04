@@ -1,5 +1,5 @@
 # Text Analysis using SpaCy Library
-Using [Google Colab](https://colab.research.google.com) to analyze the latest speeches from Mauricio Macri (Argentina's President). We will be using [SpaCy](https://spacy.io/) and Python 3.
+Use [Google Colab](https://colab.research.google.com) to analyze the latest speeches from Mauricio Macri, the president of Argentina. We will be using [SpaCy](https://spacy.io/) and Python.
 
 First, clone this repository
 ```
